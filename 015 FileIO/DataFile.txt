@@ -1,0 +1,4 @@
+﻿John Adams,100
+Steve Jobs,1
+Bill Gates,1
+Tommy Lewis, 100000
